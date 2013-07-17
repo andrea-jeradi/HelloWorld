@@ -19,7 +19,7 @@ public class JavaApplication2 {
     }
     
     public void gino(){
-        System.out.println("Ciao");
+        System.out.println("Ciao sono gino");
     }
     
     public void pino(){
