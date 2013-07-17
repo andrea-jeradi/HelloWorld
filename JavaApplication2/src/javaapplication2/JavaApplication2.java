@@ -18,11 +18,8 @@ public class JavaApplication2 {
         System.out.println("HelloWorld, Ciao dona come stai?? Ma sei un po maiale. ahahahah");
     }
     
-    public void gino(){
-        System.out.println("Ciao sono gino");
-    }
     
     public void pino(){
-        System.out.println("Ciaosono pino");
+        System.out.println("Ciao sono pino");
     }
 }
