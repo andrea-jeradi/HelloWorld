@@ -17,4 +17,8 @@ public class JavaApplication2 {
         // TODO code application logic here
         System.out.println("HelloWorld, Ciao dona come stai?? Ma sei un po maiale. ahahahah");
     }
+    
+    public void gino(){
+        System.out.println("Ciao");
+    }
 }
