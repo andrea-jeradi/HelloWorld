@@ -20,6 +20,10 @@ public class JavaApplication2 {
     
     
     public void pino(){
-        System.out.println("Ciao sono pino");
+        System.out.println("Ciao sono pino v. 2.0");
+    }
+    
+    public void gino(){
+        return;
     }
 }
