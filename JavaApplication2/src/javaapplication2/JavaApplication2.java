@@ -21,4 +21,8 @@ public class JavaApplication2 {
     public void gino(){
         System.out.println("Ciao");
     }
+    
+    public void pino(){
+        System.out.println("Ciaosono pino");
+    }
 }
